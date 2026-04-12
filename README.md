@@ -25,7 +25,7 @@ A aplicação é um **Chatbot Web** desenvolvido com **Python** e a biblioteca *
 
 ## 📊 Modelagem: Diagrama de Caso de Uso
 O diagrama de caso de uso descreve as interações do usuário, como o registro de descartes e a consulta ao dashboard de impacto ambiental.
-*(O diagrama encontra-se na pasta /docs deste repositório)*
+![Diagrama de Casos de Uso](docs/DiagramaCasoDeUsoEcoBot.png)
 
 ## ⚙️ Tecnologias Utilizadas
 * **Linguagem:** Python 3.x
